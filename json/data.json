@@ -1,0 +1,2166 @@
+{
+  "nodes": [
+    {
+      "id": "0-359",
+      "type": "c",
+      "label": "TPDL 2018",
+      "gatekeepers": "20",
+      "g1": "133",
+      "g2": "56",
+      "g3": "149",
+      "color": "#333333",
+      "size": "100",
+      "group": "source"
+    },
+    {
+      "id": "1-6274",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "20",
+      "g1": "16",
+      "g2": "7",
+      "g3": "20",
+      "label": "Andreas Rauber"
+    },
+    {
+      "id": "0-31584",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "551",
+      "g1": "4001",
+      "g2": "2003",
+      "g3": "5068",
+      "label": "CIKM 2011"
+    },
+    {
+      "id": "0-7429",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "170",
+      "g1": "1423",
+      "g2": "791",
+      "g3": "1719",
+      "label": "ECIR"
+    },
+    {
+      "id": "0-24829",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "175",
+      "g1": "1043",
+      "g2": "485",
+      "g3": "1290",
+      "label": "PDP 2012"
+    },
+    {
+      "id": "0-2684",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "70",
+      "g1": "657",
+      "g2": "290",
+      "g3": "787",
+      "label": "SISAP 2015"
+    },
+    {
+      "id": "0-1938",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "73",
+      "g1": "575",
+      "g2": "211",
+      "g3": "751",
+      "label": "DAMDID/RCDL2016"
+    },
+    {
+      "id": "0-272",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "70",
+      "g1": "507",
+      "g2": "171",
+      "g3": "707",
+      "label": "DAMDID/RCDL2018"
+    },
+    {
+      "id": "0-1126",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "72",
+      "g1": "492",
+      "g2": "182",
+      "g3": "637",
+      "label": "DAMDID/RCDL2017"
+    },
+    {
+      "id": "0-5064",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "27",
+      "g1": "306",
+      "g2": "130",
+      "g3": "359",
+      "label": "SDA 2012"
+    },
+    {
+      "id": "0-5779",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "27",
+      "g1": "297",
+      "g2": "127",
+      "g3": "357",
+      "label": "SDA 2011"
+    },
+    {
+      "id": "0-2769",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "18",
+      "g1": "253",
+      "g2": "98",
+      "g3": "296",
+      "label": "SDA 2015"
+    },
+    {
+      "id": "0-6297",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "91",
+      "g1": "181",
+      "g2": "141",
+      "g3": "188",
+      "label": "iPRES 2010"
+    },
+    {
+      "id": "0-3620",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "19",
+      "g1": "162",
+      "g2": "74",
+      "g3": "194",
+      "label": "Second Workshop on Linking and Cont ..."
+    },
+    {
+      "id": "0-29040",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "24",
+      "g1": "152",
+      "g2": "78",
+      "g3": "187",
+      "label": "ECIR 2019"
+    },
+    {
+      "id": "0-5722",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "20",
+      "g1": "122",
+      "g2": "67",
+      "g3": "144",
+      "label": "ICADL 2011"
+    },
+    {
+      "id": "0-22869",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "16",
+      "g1": "104",
+      "g2": "57",
+      "g3": "115",
+      "label": "ECIR 2015"
+    },
+    {
+      "id": "0-22930",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "39",
+      "g1": "104",
+      "g2": "52",
+      "g3": "120",
+      "label": "WSOM 2016"
+    },
+    {
+      "id": "0-2039",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "17",
+      "g1": "73",
+      "g2": "43",
+      "g3": "78",
+      "label": "RepScience 2016"
+    },
+    {
+      "id": "0-6854",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "11",
+      "g1": "68",
+      "g2": "41",
+      "g3": "80",
+      "label": "InDP2009"
+    },
+    {
+      "id": "0-27595",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "20",
+      "g1": "57",
+      "g2": "46",
+      "g3": "62",
+      "label": "JCDL 2008"
+    },
+    {
+      "id": "1-6591",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "2",
+      "g1": "2",
+      "g2": "0",
+      "g3": "2",
+      "label": "Maria Manuel Borges"
+    },
+    {
+      "id": "0-280",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "228",
+      "g1": "472",
+      "g2": "110",
+      "g3": "557",
+      "label": "ISELEAR18"
+    },
+    {
+      "id": "1-6865",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "24",
+      "g1": "15",
+      "g2": "7",
+      "g3": "20",
+      "label": "Antoine Isaac"
+    },
+    {
+      "id": "0-1097",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "628",
+      "g1": "5752",
+      "g2": "2451",
+      "g3": "7360",
+      "label": "ISWC 2017"
+    },
+    {
+      "id": "0-34718",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "472",
+      "g1": "5022",
+      "g2": "2032",
+      "g3": "6587",
+      "label": "ISWC 2019"
+    },
+    {
+      "id": "0-32013",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "281",
+      "g1": "3420",
+      "g2": "1491",
+      "g3": "4152",
+      "label": "ISWC 2013"
+    },
+    {
+      "id": "0-29156",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "286",
+      "g1": "3016",
+      "g2": "1413",
+      "g3": "3552",
+      "label": "ISWC 2009"
+    },
+    {
+      "id": "0-3399",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "147",
+      "g1": "1684",
+      "g2": "719",
+      "g3": "1997",
+      "label": "EKAW 2014"
+    },
+    {
+      "id": "0-5727",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "84",
+      "g1": "975",
+      "g2": "445",
+      "g3": "1220",
+      "label": "OM-2011"
+    },
+    {
+      "id": "0-6218",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "90",
+      "g1": "937",
+      "g2": "448",
+      "g3": "1184",
+      "label": "OM-2010"
+    },
+    {
+      "id": "0-6655",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "76",
+      "g1": "906",
+      "g2": "414",
+      "g3": "1165",
+      "label": "OM-2009"
+    },
+    {
+      "id": "0-4256",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "72",
+      "g1": "878",
+      "g2": "392",
+      "g3": "1108",
+      "label": "OM-2013"
+    },
+    {
+      "id": "0-3505",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "75",
+      "g1": "841",
+      "g2": "378",
+      "g3": "1062",
+      "label": "OM-14"
+    },
+    {
+      "id": "0-7241",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "77",
+      "g1": "830",
+      "g2": "383",
+      "g3": "1058",
+      "label": "OM-2007"
+    },
+    {
+      "id": "0-4939",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "70",
+      "g1": "825",
+      "g2": "374",
+      "g3": "1047",
+      "label": "OM-2012"
+    },
+    {
+      "id": "0-33178",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "155",
+      "g1": "691",
+      "g2": "280",
+      "g3": "803",
+      "label": "MTSR 2015"
+    },
+    {
+      "id": "0-32161",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "155",
+      "g1": "691",
+      "g2": "280",
+      "g3": "803",
+      "label": "MTSR 2016"
+    },
+    {
+      "id": "0-7004",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "57",
+      "g1": "681",
+      "g2": "319",
+      "g3": "806",
+      "label": "OM-2008"
+    },
+    {
+      "id": "0-2696",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "68",
+      "g1": "680",
+      "g2": "313",
+      "g3": "794",
+      "label": "OM-2015"
+    },
+    {
+      "id": "0-1111",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "71",
+      "g1": "635",
+      "g2": "287",
+      "g3": "753",
+      "label": "OM-2017"
+    },
+    {
+      "id": "0-691",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "133",
+      "g1": "618",
+      "g2": "228",
+      "g3": "726",
+      "label": "Drift-a-LOD 2018"
+    },
+    {
+      "id": "0-1931",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "58",
+      "g1": "583",
+      "g2": "261",
+      "g3": "690",
+      "label": "OM-2016"
+    },
+    {
+      "id": "0-287",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "72",
+      "g1": "562",
+      "g2": "235",
+      "g3": "667",
+      "label": "OM-2018"
+    },
+    {
+      "id": "0-2697",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "29",
+      "g1": "356",
+      "g2": "148",
+      "g3": "495",
+      "label": "OWLED 2015"
+    },
+    {
+      "id": "0-3081",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "28",
+      "g1": "317",
+      "g2": "132",
+      "g3": "401",
+      "label": "ESWC 2015"
+    },
+    {
+      "id": "0-3567",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "23",
+      "g1": "178",
+      "g2": "79",
+      "g3": "210",
+      "label": "SML2OD2014"
+    },
+    {
+      "id": "1-7909",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "4",
+      "g1": "4",
+      "g2": "1",
+      "g3": "4",
+      "label": "Cristina Ribeiro"
+    },
+    {
+      "id": "0-1196",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "15",
+      "g1": "169",
+      "g2": "64",
+      "g3": "222",
+      "label": "TPDL 2017"
+    },
+    {
+      "id": "1-7910",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "6",
+      "g1": "6",
+      "g2": "3",
+      "g3": "6",
+      "label": "Gabriel David"
+    },
+    {
+      "id": "0-27029",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "145",
+      "g1": "1586",
+      "g2": "703",
+      "g3": "1876",
+      "label": "DBKDA 2016"
+    },
+    {
+      "id": "0-2200",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "145",
+      "g1": "1586",
+      "g2": "703",
+      "g3": "1876",
+      "label": "DBKDA 2016, The Eighth Internationa ..."
+    },
+    {
+      "id": "0-3103",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "116",
+      "g1": "1331",
+      "g2": "610",
+      "g3": "1561",
+      "label": "DBKDA 2015, The Seventh Internation ..."
+    },
+    {
+      "id": "0-25105",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "100",
+      "g1": "1121",
+      "g2": "405",
+      "g3": "1416",
+      "label": "DBKDA 2017"
+    },
+    {
+      "id": "0-1546",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "100",
+      "g1": "1121",
+      "g2": "405",
+      "g3": "1416",
+      "label": "DBKDA 2017, The Ninth International ..."
+    },
+    {
+      "id": "1-7911",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "1",
+      "g1": "1",
+      "g2": "0",
+      "g3": "1",
+      "label": "Eva Méndez"
+    },
+    {
+      "id": "1-7912",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "26",
+      "g1": "20",
+      "g2": "9",
+      "g3": "22",
+      "label": "Fabio Crestani"
+    },
+    {
+      "id": "0-33423",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "723",
+      "g1": "4734",
+      "g2": "2575",
+      "g3": "5927",
+      "label": "SIGKDD 2015"
+    },
+    {
+      "id": "0-2635",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "562",
+      "g1": "4483",
+      "g2": "2276",
+      "g3": "5562",
+      "label": "CIKM 2015"
+    },
+    {
+      "id": "0-33901",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "448",
+      "g1": "2874",
+      "g2": "1564",
+      "g3": "3408",
+      "label": "SIGIR 2014"
+    },
+    {
+      "id": "0-23988",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "351",
+      "g1": "2300",
+      "g2": "1268",
+      "g3": "2659",
+      "label": "MIR 2014"
+    },
+    {
+      "id": "0-5558",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "209",
+      "g1": "2042",
+      "g2": "1054",
+      "g3": "2493",
+      "label": "WSDM 2012"
+    },
+    {
+      "id": "0-4295",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "128",
+      "g1": "1458",
+      "g2": "574",
+      "g3": "1982",
+      "label": "The Second International Conference ..."
+    },
+    {
+      "id": "0-31120",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "174",
+      "g1": "1442",
+      "g2": "786",
+      "g3": "1793",
+      "label": "WSDM 2011"
+    },
+    {
+      "id": "0-34107",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "129",
+      "g1": "1126",
+      "g2": "625",
+      "g3": "1456",
+      "label": "CIKM 2007"
+    },
+    {
+      "id": "0-30618",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "155",
+      "g1": "992",
+      "g2": "596",
+      "g3": "1135",
+      "label": "CIKM 2004"
+    },
+    {
+      "id": "0-29723",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "91",
+      "g1": "881",
+      "g2": "366",
+      "g3": "1155",
+      "label": "FQAS 2015"
+    },
+    {
+      "id": "0-30041",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "66",
+      "g1": "739",
+      "g2": "307",
+      "g3": "1081",
+      "label": "FQAS 2009"
+    },
+    {
+      "id": "0-6731",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "64",
+      "g1": "525",
+      "g2": "306",
+      "g3": "593",
+      "label": "ICTIR09"
+    },
+    {
+      "id": "0-1674",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "51",
+      "g1": "472",
+      "g2": "198",
+      "g3": "569",
+      "label": "KARS 2017"
+    },
+    {
+      "id": "0-28934",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "73",
+      "g1": "464",
+      "g2": "278",
+      "g3": "516",
+      "label": "IIiX 2008"
+    },
+    {
+      "id": "0-7479",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "44",
+      "g1": "414",
+      "g2": "214",
+      "g3": "506",
+      "label": "P2PIR 2006"
+    },
+    {
+      "id": "0-2028",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "26",
+      "g1": "228",
+      "g2": "105",
+      "g3": "291",
+      "label": "TPDL 2016"
+    },
+    {
+      "id": "0-6138",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "19",
+      "g1": "220",
+      "g2": "113",
+      "g3": "266",
+      "label": "IIR 2011"
+    },
+    {
+      "id": "0-3231",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "16",
+      "g1": "206",
+      "g2": "73",
+      "g3": "246",
+      "label": "CaRR 2015"
+    },
+    {
+      "id": "0-33904",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "22",
+      "g1": "205",
+      "g2": "107",
+      "g3": "239",
+      "label": "SIGIR 2010"
+    },
+    {
+      "id": "0-33907",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "18",
+      "g1": "162",
+      "g2": "87",
+      "g3": "183",
+      "label": "SIGIR 2004"
+    },
+    {
+      "id": "0-8262",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "59",
+      "g1": "145",
+      "g2": "70",
+      "g3": "190",
+      "label": "IEEE technically co-sponsored"
+    },
+    {
+      "id": "0-1229",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "45",
+      "g1": "115",
+      "g2": "76",
+      "g3": "120",
+      "label": "eRisk 2017"
+    },
+    {
+      "id": "0-1516",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "10",
+      "g1": "103",
+      "g2": "50",
+      "g3": "113",
+      "label": "IIR 2017"
+    },
+    {
+      "id": "1-7913",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "3",
+      "g1": "3",
+      "g2": "1",
+      "g3": "3",
+      "label": "Ana Alice Baptista"
+    },
+    {
+      "id": "0-28900",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "29",
+      "g1": "55",
+      "g2": "16",
+      "g3": "57",
+      "label": "ELPUB 2017"
+    },
+    {
+      "id": "0-29970",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "15",
+      "g1": "44",
+      "g2": "25",
+      "g3": "45",
+      "label": "ELPUB 2013"
+    },
+    {
+      "id": "1-7914",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "7",
+      "g1": "7",
+      "g2": "3",
+      "g3": "7",
+      "label": "José Borbinha"
+    },
+    {
+      "id": "0-26234",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "411",
+      "g1": "1013",
+      "g2": "276",
+      "g3": "1118",
+      "label": "CISTI 2017"
+    },
+    {
+      "id": "0-28348",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "83",
+      "g1": "671",
+      "g2": "272",
+      "g3": "841",
+      "label": "BMSD 2017"
+    },
+    {
+      "id": "0-7933",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "72",
+      "g1": "352",
+      "g2": "220",
+      "g3": "411",
+      "label": "ECDL"
+    },
+    {
+      "id": "0-33173",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "39",
+      "g1": "328",
+      "g2": "158",
+      "g3": "373",
+      "label": "DILS 2014"
+    },
+    {
+      "id": "0-31077",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "40",
+      "g1": "192",
+      "g2": "88",
+      "g3": "222",
+      "label": "EEWC 2014"
+    },
+    {
+      "id": "1-7915",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "3",
+      "g1": "3",
+      "g2": "2",
+      "g3": "3",
+      "label": "Irene Rodrigues"
+    },
+    {
+      "id": "0-6631",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "20",
+      "g1": "124",
+      "g2": "72",
+      "g3": "141",
+      "label": "INAP"
+    },
+    {
+      "id": "0-2042",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "11",
+      "g1": "91",
+      "g2": "44",
+      "g3": "103",
+      "label": "CLEF 2016: Conference and Labs of t ..."
+    },
+    {
+      "id": "1-7916",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "2",
+      "g1": "2",
+      "g2": "1",
+      "g3": "2",
+      "label": "Daniel Gomes"
+    },
+    {
+      "id": "0-6143",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "41",
+      "g1": "170",
+      "g2": "109",
+      "g3": "191",
+      "label": "HICSS 2011 Minitrack: Web Informati ..."
+    },
+    {
+      "id": "1-7917",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "23",
+      "g1": "20",
+      "g2": "8",
+      "g3": "23",
+      "label": "Thomas Risse"
+    },
+    {
+      "id": "0-6673",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "156",
+      "g1": "1756",
+      "g2": "732",
+      "g3": "2437",
+      "label": "AP2PS2009"
+    },
+    {
+      "id": "0-4027",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "182",
+      "g1": "1257",
+      "g2": "516",
+      "g3": "1547",
+      "label": "WEBIST 2014"
+    },
+    {
+      "id": "0-7216",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "95",
+      "g1": "1127",
+      "g2": "523",
+      "g3": "1482",
+      "label": "WISE07"
+    },
+    {
+      "id": "0-5651",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "101",
+      "g1": "990",
+      "g2": "420",
+      "g3": "1217",
+      "label": "AP2PS 2011: The Third International ..."
+    },
+    {
+      "id": "0-5047",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "69",
+      "g1": "835",
+      "g2": "323",
+      "g3": "1087",
+      "label": "AP2PS 2012"
+    },
+    {
+      "id": "0-29092",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "115",
+      "g1": "812",
+      "g2": "285",
+      "g3": "1020",
+      "label": "KEOD 2016"
+    },
+    {
+      "id": "0-25958",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "115",
+      "g1": "812",
+      "g2": "285",
+      "g3": "1020",
+      "label": "KEOD 2015"
+    },
+    {
+      "id": "0-7292",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "65",
+      "g1": "740",
+      "g2": "313",
+      "g3": "969",
+      "label": "GSEM2007"
+    },
+    {
+      "id": "0-7620",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "57",
+      "g1": "600",
+      "g2": "254",
+      "g3": "804",
+      "label": "MCISME"
+    },
+    {
+      "id": "0-7634",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "44",
+      "g1": "532",
+      "g2": "239",
+      "g3": "802",
+      "label": "STD3S"
+    },
+    {
+      "id": "0-7589",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "51",
+      "g1": "466",
+      "g2": "235",
+      "g3": "601",
+      "label": "DMC2006"
+    },
+    {
+      "id": "0-7380",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "51",
+      "g1": "466",
+      "g2": "235",
+      "g3": "601",
+      "label": "DMC 2007"
+    },
+    {
+      "id": "0-6083",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "33",
+      "g1": "285",
+      "g2": "152",
+      "g3": "331",
+      "label": "TWAW"
+    },
+    {
+      "id": "0-5477",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "33",
+      "g1": "285",
+      "g2": "152",
+      "g3": "331",
+      "label": "TempWeb 2012"
+    },
+    {
+      "id": "0-5973",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "45",
+      "g1": "251",
+      "g2": "155",
+      "g3": "272",
+      "label": "2nd International Workshop on the F ..."
+    },
+    {
+      "id": "0-5972",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "45",
+      "g1": "251",
+      "g2": "155",
+      "g3": "272",
+      "label": "EuroITV 2011"
+    },
+    {
+      "id": "0-6070",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "5",
+      "g1": "41",
+      "g2": "23",
+      "g3": "49",
+      "label": "ICDE 2011"
+    },
+    {
+      "id": "1-7918",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "4",
+      "g1": "4",
+      "g2": "1",
+      "g3": "4",
+      "label": "Johann Christian Senckenberg"
+    },
+    {
+      "id": "1-7919",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "1",
+      "g1": "1",
+      "g2": "0",
+      "g3": "1",
+      "label": "João Correia Lopes"
+    },
+    {
+      "id": "1-7920",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "1",
+      "g1": "1",
+      "g2": "0",
+      "g3": "1",
+      "label": "João Rocha da Silva"
+    },
+    {
+      "id": "1-7921",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "1",
+      "g1": "1",
+      "g2": "0",
+      "g3": "1",
+      "label": "Maria Fernanda Rollo"
+    },
+    {
+      "id": "1-7922",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "1",
+      "g1": "1",
+      "g2": "0",
+      "g3": "1",
+      "label": "Medha Devare"
+    },
+    {
+      "id": "1-7923",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "2",
+      "g1": "2",
+      "g2": "1",
+      "g3": "2",
+      "label": "Natalia Manola"
+    },
+    {
+      "id": "0-3621",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "67",
+      "g1": "243",
+      "g2": "145",
+      "g3": "272",
+      "label": "DL14"
+    },
+    {
+      "id": "1-7924",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "12",
+      "g1": "10",
+      "g2": "5",
+      "g3": "11",
+      "label": "Herbert Van de Sompel"
+    },
+    {
+      "id": "0-1231",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "221",
+      "g1": "2003",
+      "g2": "753",
+      "g3": "2482",
+      "label": "SEMANTiCS 2017"
+    },
+    {
+      "id": "0-1228",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "221",
+      "g1": "2003",
+      "g2": "753",
+      "g3": "2482",
+      "label": "SEMANTiCS 2017"
+    },
+    {
+      "id": "0-2771",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "162",
+      "g1": "1234",
+      "g2": "478",
+      "g3": "1503",
+      "label": "SEMANTiCS2015"
+    },
+    {
+      "id": "0-5485",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "120",
+      "g1": "1034",
+      "g2": "505",
+      "g3": "1192",
+      "label": "LDOW2012"
+    },
+    {
+      "id": "0-6915",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "86",
+      "g1": "954",
+      "g2": "493",
+      "g3": "1052",
+      "label": "LDOW2009"
+    },
+    {
+      "id": "0-4681",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "78",
+      "g1": "841",
+      "g2": "401",
+      "g3": "987",
+      "label": "LDOW2013"
+    },
+    {
+      "id": "0-6087",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "74",
+      "g1": "678",
+      "g2": "349",
+      "g3": "780",
+      "label": "LDOW2011"
+    },
+    {
+      "id": "1-7925",
+      "type": "g",
+      "color": "#8CBAFC",
+      "size": "20",
+      "conferences": "4",
+      "g1": "4",
+      "g2": "2",
+      "g3": "4",
+      "label": "Martin Klein"
+    },
+    {
+      "id": "0-1466",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "26",
+      "g1": "102",
+      "g2": "49",
+      "g3": "117",
+      "label": "JCDL 2017"
+    },
+    {
+      "id": "0-26991",
+      "type": "c",
+      "linkColor": "#333333",
+      "color": "#e58457",
+      "size": "6",
+      "gatekeepers": "26",
+      "g1": "102",
+      "g2": "49",
+      "g3": "117",
+      "label": "JCDL 2017"
+    }
+  ],
+  "links": [
+    {
+      "source": "0-359",
+      "target": "1-6274"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-31584"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-7429"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-24829"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-2684"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-1938"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-272"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-1126"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-5064"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-5779"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-2769"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-6297"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-3620"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-29040"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-5722"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-22869"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-22930"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-2039"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-6854"
+    },
+    {
+      "source": "1-6274",
+      "target": "0-27595"
+    },
+    {
+      "source": "0-27595",
+      "target": "1-6591"
+    },
+    {
+      "source": "1-6591",
+      "target": "0-280"
+    },
+    {
+      "source": "1-6591",
+      "target": "0-359"
+    },
+    {
+      "source": "0-359",
+      "target": "1-6865"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-1097"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-34718"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-32013"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-29156"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-3399"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-5727"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-6218"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-6655"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-4256"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-3505"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-7241"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-4939"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-33178"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-32161"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-7004"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-2696"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-1111"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-691"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-1931"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-287"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-2697"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-3081"
+    },
+    {
+      "source": "1-6865",
+      "target": "0-3567"
+    },
+    {
+      "source": "0-3567",
+      "target": "1-7909"
+    },
+    {
+      "source": "1-7909",
+      "target": "0-33178"
+    },
+    {
+      "source": "1-7909",
+      "target": "0-32161"
+    },
+    {
+      "source": "1-7909",
+      "target": "0-1196"
+    },
+    {
+      "source": "1-7909",
+      "target": "0-359"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7910"
+    },
+    {
+      "source": "1-7910",
+      "target": "0-27029"
+    },
+    {
+      "source": "1-7910",
+      "target": "0-2200"
+    },
+    {
+      "source": "1-7910",
+      "target": "0-3103"
+    },
+    {
+      "source": "1-7910",
+      "target": "0-25105"
+    },
+    {
+      "source": "1-7910",
+      "target": "0-1546"
+    },
+    {
+      "source": "0-1546",
+      "target": "1-7911"
+    },
+    {
+      "source": "1-7911",
+      "target": "0-359"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7912"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-33423"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-2635"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-33901"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-23988"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-5558"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-4295"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-31120"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-7429"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-34107"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-30618"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-29723"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-30041"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-6731"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-1674"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-28934"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-7479"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-2028"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-6138"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-3231"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-33904"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-33907"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-8262"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-5722"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-1229"
+    },
+    {
+      "source": "1-7912",
+      "target": "0-1516"
+    },
+    {
+      "source": "0-1516",
+      "target": "1-7913"
+    },
+    {
+      "source": "1-7913",
+      "target": "0-359"
+    },
+    {
+      "source": "1-7913",
+      "target": "0-28900"
+    },
+    {
+      "source": "1-7913",
+      "target": "0-29970"
+    },
+    {
+      "source": "0-29970",
+      "target": "1-7914"
+    },
+    {
+      "source": "1-7914",
+      "target": "0-26234"
+    },
+    {
+      "source": "1-7914",
+      "target": "0-28348"
+    },
+    {
+      "source": "1-7914",
+      "target": "0-7933"
+    },
+    {
+      "source": "1-7914",
+      "target": "0-33173"
+    },
+    {
+      "source": "1-7914",
+      "target": "0-31077"
+    },
+    {
+      "source": "1-7914",
+      "target": "0-6297"
+    },
+    {
+      "source": "1-7914",
+      "target": "0-359"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7915"
+    },
+    {
+      "source": "1-7915",
+      "target": "0-6631"
+    },
+    {
+      "source": "1-7915",
+      "target": "0-2042"
+    },
+    {
+      "source": "0-2042",
+      "target": "1-7916"
+    },
+    {
+      "source": "1-7916",
+      "target": "0-6143"
+    },
+    {
+      "source": "1-7916",
+      "target": "0-359"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7917"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-6673"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-4027"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-7216"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-5651"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-5047"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-29092"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-25958"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-7292"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-7620"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-7634"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-7589"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-7380"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-5064"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-5779"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-6083"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-5477"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-2769"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-5973"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-5972"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-2028"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-1196"
+    },
+    {
+      "source": "1-7917",
+      "target": "0-6070"
+    },
+    {
+      "source": "0-6070",
+      "target": "1-7918"
+    },
+    {
+      "source": "1-7918",
+      "target": "0-4027"
+    },
+    {
+      "source": "1-7918",
+      "target": "0-29092"
+    },
+    {
+      "source": "1-7918",
+      "target": "0-25958"
+    },
+    {
+      "source": "1-7918",
+      "target": "0-359"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7919"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7920"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7921"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7922"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7923"
+    },
+    {
+      "source": "1-7923",
+      "target": "0-3621"
+    },
+    {
+      "source": "0-3621",
+      "target": "1-7924"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-1097"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-1231"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-1228"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-2771"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-5485"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-6915"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-4681"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-6087"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-7933"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-5064"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-2769"
+    },
+    {
+      "source": "1-7924",
+      "target": "0-359"
+    },
+    {
+      "source": "0-359",
+      "target": "1-7925"
+    },
+    {
+      "source": "1-7925",
+      "target": "0-3621"
+    },
+    {
+      "source": "1-7925",
+      "target": "0-1466"
+    },
+    {
+      "source": "1-7925",
+      "target": "0-26991"
+    }
+  ]
+}
